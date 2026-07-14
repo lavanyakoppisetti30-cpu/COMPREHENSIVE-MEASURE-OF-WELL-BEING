@@ -1,1 +1,15 @@
 
+## 🛠️ Technologies & Tools Used
+
+Our machine learning pipeline, visualization tools, and web interface are powered by the following industry-standard technologies:
+
+| Tool / Library | Role in Project | Documentation |
+| :--- | :--- | :--- |
+| **Anaconda Navigator** | Environment & package management for clean setup | [Download](https://www.anaconda.com/download) |
+| **PyCharm** | Primary IDE used for clean Python development and debugging | [Docs](https://www.jetbrains.com/pycharm/) |
+| **NumPy** | High-performance numerical grid arrays and vector operations | [Docs](https://numpy.org/doc/stable/) |
+| **Pandas** | Critical data cleaning, manipulation, and analysis tables | [Docs](https://pandas.pydata.org/docs/) |
+| **Scikit-learn** | Implementing training, regression, and classification ML models | [Docs](https://scikit-learn.org/stable/) |
+| **Matplotlib** | Generating baseline statistical plots and data graphs | [Docs](https://matplotlib.org/stable/) |
+| **Seaborn** | Creating beautiful, advanced statistical data visualizations | [Docs](https://seaborn.pydata.org/) |
+| **Flask** | Lightweight web framework used to serve our ML predictions as a web app | [Docs](https://flask.palletsprojects.com/) |
